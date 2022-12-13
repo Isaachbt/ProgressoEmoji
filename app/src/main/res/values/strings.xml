@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ProgressoEmoji</string>
+    <string name="txt_avaliacao">De uma nota de 0 a 10, sendo 0 pessimo</string>
+</resources>
